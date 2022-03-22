@@ -1,5 +1,5 @@
 {
-  description = ''A new awesome nimble package'';
+  description = ''API wrapper for the game spacetraders (https://spacetraders.io)'';
 
   inputs.flakeNimbleLib.owner = "riinr";
   inputs.flakeNimbleLib.ref   = "master";
@@ -9,7 +9,7 @@
   
   inputs.src-spacenimtraders-0_2_0.flake = false;
   inputs.src-spacenimtraders-0_2_0.owner = "ire4ever1190";
-  inputs.src-spacenimtraders-0_2_0.ref   = "refs/tags/0.2.0";
+  inputs.src-spacenimtraders-0_2_0.ref   = "0_2_0";
   inputs.src-spacenimtraders-0_2_0.repo  = "SpaceNimTraders";
   inputs.src-spacenimtraders-0_2_0.type  = "github";
   
